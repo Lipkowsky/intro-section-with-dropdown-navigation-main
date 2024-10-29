@@ -7,5 +7,9 @@ Strona utworzona na podstawie projektu graficznego: https://www.frontendmentor.i
 
 
 ### Zrzuty ekranu z aplikacji
+![Strona główna - desktop](/images/index-desktop.png)
+![Strona główna - mobile](/images/index-mobile.png)
+
+
 
 
